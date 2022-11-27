@@ -10,6 +10,14 @@ margin-top: 0px;
     background-color: #005555;
 }
 
+.robot {
+    height: 80px;
+}
+
+.coding {
+    height: 120px;
+}
+
 .middle-container {
     height: 200px;
     width: 200px;
@@ -21,3 +29,4 @@ margin-top: 0px;
     width: 200px;
     background-color: grey;
 }
+
