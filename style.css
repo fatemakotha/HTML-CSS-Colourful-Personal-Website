@@ -141,6 +141,12 @@ hr {
 
 }
 
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
 .btn {
   background: #000000;
   background-image: -webkit-linear-gradient(top, #000000, #000000);
@@ -151,7 +157,7 @@ hr {
   -webkit-border-radius: 60;
   -moz-border-radius: 60;
   border-radius: 60px;
-  font-family: Courier New;
+  font-family: Montserrat;
   color: #05e6a6;
   font-size: 13px;
   font-weight: bold;
