@@ -37,7 +37,10 @@ p {
 }
 
 a {
-
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
 }
 
 hr {
