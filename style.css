@@ -69,39 +69,33 @@ hr {
 .robot {
     height: 80px;
     position: absolute;
-    right: 475px;
-    top: 190px;
+    margin: 310px auto auto 70px;
 }
 
 
 .machine {
     height: 55px;
     position: absolute;
-    left: 1045px;
-
-    top: 215px;
+    margin: 335px auto auto 145px;
 }
 
 .coding {
-    height: 100px;
+    height: 13%;
     position: absolute;
-    top: 180px;
-    left: 430px;
+    margin: -200px auto auto 235px;
 }
 
 .hcj {
     height: 60px;
     width: 60px;
     position: absolute;
-    top: 200px;
-    left: 370px;
+    margin: -145px auto auto 170px;
 }
 
 .python {
     height: 50px;
     position: absolute;
-    top: 210px;
-    left: 315px;
+    margin: -135px auto auto 120px;
 }
 
 .numbers {
