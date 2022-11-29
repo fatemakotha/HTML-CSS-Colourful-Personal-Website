@@ -6,23 +6,30 @@ body {
 
 .name {
 
-    margin: 0 auto 0 auto;
+    margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
-    color: white;
-    font-size: 90px;
+    color: #00FFD1;
+    font-size: 5.625rem;
+    line-height: 1; /*This is the default, change it to change height. NO UNITS*/
+    font-weight: bold;
 }
 
 .introline {
-    color: white;
+    color: #00FFD1;
 }
 
 h2 {
     font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #22A39F;
+    font-weight: normal;
+
 
 }
 
 h3 {
     font-family: 'Montserrat', sans-serif;
+    color: #22A39F;
 }
 
 .pro {
@@ -84,7 +91,22 @@ h3 {
     height: 200px;
     width: 200px;
 }
+.skills-img {
+    height: 200px;
+    width: 400px;
+    border-radius: 20%;
+}
 
+.sketch-img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
 
 
 
