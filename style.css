@@ -92,20 +92,22 @@ h3 {
     width: 200px;
 }
 .skills-img {
-    height: 200px;
-    width: 400px;
+    width: 50%;
+
     border-radius: 20%;
 }
 
 .sketch-img {
-    height: 200px;
-    width: 200px;
+    width: 25%;
+    height: 25%;
     border-radius: 50%;
 }
 
 .skill-row {
     width: 50%;
     margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
 }
 
 
